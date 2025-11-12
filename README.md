@@ -9,6 +9,7 @@ The goal of this repository is to:
 - Practice setting up CI/CD pipelines that automatically test code.
 - Explore workflow triggers and job steps in action.
 
+
 ## ⚙️ Project Overview
 
 - **addition.py** → A simple Python script that defines and tests an `add(a, b)` function.
